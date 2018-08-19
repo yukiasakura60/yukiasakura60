@@ -1038,6 +1038,11 @@
   width: 800px;
 }
 
+.image-12 {
+  position: relative;
+  left: -134px;
+}
+
 @media (max-width: 991px) {
   .container {
     padding-right: 16px;
