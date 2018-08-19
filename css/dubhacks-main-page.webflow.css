@@ -1034,6 +1034,10 @@
   width: 1000px;
 }
 
+.image-11 {
+  width: 800px;
+}
+
 @media (max-width: 991px) {
   .container {
     padding-right: 16px;
